@@ -8,7 +8,7 @@
 </head>
 <body>
 	<main>
-		<a class="top-link" href="index.php">Home</a>
+		<a class="top-link" href="index.html">Home</a>
 		<h2 class="header-text">Slip Gaji Karyawan</h2>
 
 		<?php
